@@ -1,0 +1,51 @@
+[
+    {
+      "role": "Systems Engineer Trainee",
+      "organisation": "Infosys",
+      "startDate": "May, 2021",
+      "endDate": "November 2021",
+      "experiences": ["Learned back-end Technologies - JAVA and its framework SpringBoot, MySQL ", "Learned front-end Technologies - HTML, CSS, typescript  and framework Angular "],
+      "imageSrc": "history/infosys.png"
+    },
+    {
+      "role": "Systems Engineer",
+      "organisation": "Infosys",
+      "startDate": "November, 2021",
+      "endDate": "July, 2022",
+      "experiences": ["Solving on Production incidents", "Solving the Bugs","Awarded Most Valuable Player on the first quarter of 2022"],
+      "imageSrc": "history/infosys.png"
+    },
+    {
+      "role": "Systems Engineer",
+      "organisation": "Infosys",
+      "startDate": "August, 2022",
+      "endDate": "December, 2022",
+      "experiences": [
+        "Worked on-site Sweden",
+        "Implemented EJB framework which increased performance by fourty percent"
+      ],
+      "imageSrc": "history/infosys.png"
+    },
+    {
+        "role": "Systems Engineer",
+        "organisation": "Infosys",
+        "startDate": "Jan, 2023",
+        "endDate": "June, 2023",
+        "experiences": [
+          "Developed new features to an application using JAVA and Spring boot",
+          "Represented as a Scrum Master for a team in the Scrum of Scrums for a briefly amount of time"
+        ],
+        "imageSrc": "history/infosys.png"
+      },
+      {
+        "role": "Senior Systems Engineer",
+        "organisation": "Infosys",
+        "startDate": "June, 2023",
+        "endDate": "July, 2023",
+        "experiences": [
+          "Worked on developing a new feature based on UDP protocols",
+          "Provided knowledge transfer to a colleague on Application level and technical level"
+        ],
+        "imageSrc": "history/infosys.png"
+      }
+  ]

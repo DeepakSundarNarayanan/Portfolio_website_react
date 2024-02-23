@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Nammabnb",
+      "imageSrc": "projects/Nammabnb.png",
+      "description": "This is a project made to learn the React and its libraries.",
+      "skills": ["MongoDB","React", "Express", "Node","Tailwind CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Airline Management system",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn JAVA and JAVA Swing",
+      "skills": ["JAVA", "SWING", "StreamAPI"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
